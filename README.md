@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Luan Milian Martins 🌈<h1>
+## Olá, me chamo Luan Milian Martins 🌈
 👩‍💻 Desenvolvedor Júnior de Front-End | Estudante de Ciência da Computação<br>
 🦄 Tecnologias: React, JavaScript, Angular, SQL, Node.js, Bootstrap<br>
 📚 Atualmente aprimorando habilidades em Java/Back-end<br>
