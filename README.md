@@ -4,7 +4,7 @@
 📚 Atualmente aprimorando habilidades em Java/Back-end<br>
 🎓 Formado em Técnico de Análise e Desenvolvimento de Sistemas (ADS)<br>
 🎓 Graduando em Ciências da computação (ADS)<br>
-🧙 Tenho grande entusiasmo em criar experiências excepcionais para os usuários, através de interfaces que chamem a atenção do público e sejam visualmente encantadoras.<br>
+
 
 <div>
   <a href="https://github.com/Asuramaruu/"><br>
