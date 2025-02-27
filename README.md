@@ -1,9 +1,8 @@
 ## Olá, me chamo Luan Milian Martins 🌈
-👩‍💻 Desenvolvedor Júnior de Front-End | Estudante de Ciência da Computação<br>
+👩‍💻 Desenvolvedor Júnior Front-End | Estudante de Ciência da Computação<br>
 🦄 Tecnologias: React, JavaScript, Angular, SQL, Node.js, Bootstrap<br>
 📚 Atualmente aprimorando habilidades em Java/Back-end<br>
 🎓 Formado em Técnico de Análise e Desenvolvimento de Sistemas (ADS)<br>
-🎓 Graduando em Ciências da computação (ADS)<br>
 
 
 <div>
